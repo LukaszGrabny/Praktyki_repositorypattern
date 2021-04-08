@@ -1,0 +1,17 @@
+C:\Users\Gosia\source\repos\onxg\practice\Practice\Practice.Core\bin\Debug\Practice.Core.dll.config
+C:\Users\Gosia\source\repos\onxg\practice\Practice\Practice.Core\bin\Debug\Practice.Core.dll
+C:\Users\Gosia\source\repos\onxg\practice\Practice\Practice.Core\bin\Debug\Practice.Core.pdb
+C:\Users\Gosia\source\repos\onxg\practice\Practice\Practice.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Gosia\source\repos\onxg\practice\Practice\Practice.Core\bin\Debug\Practice.DAL.dll
+C:\Users\Gosia\source\repos\onxg\practice\Practice\Practice.Core\bin\Debug\EntityFramework.dll
+C:\Users\Gosia\source\repos\onxg\practice\Practice\Practice.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Gosia\source\repos\onxg\practice\Practice\Practice.Core\bin\Debug\Practice.DAL.pdb
+C:\Users\Gosia\source\repos\onxg\practice\Practice\Practice.Core\bin\Debug\Practice.DAL.dll.config
+C:\Users\Gosia\source\repos\onxg\practice\Practice\Practice.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Gosia\source\repos\onxg\practice\Practice\Practice.Core\bin\Debug\EntityFramework.xml
+C:\Users\Gosia\source\repos\onxg\practice\Practice\Practice.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Gosia\source\repos\onxg\practice\Practice\Practice.Core\obj\Debug\Practice.Core.csprojAssemblyReference.cache
+C:\Users\Gosia\source\repos\onxg\practice\Practice\Practice.Core\obj\Debug\Practice.Core.csproj.CoreCompileInputs.cache
+C:\Users\Gosia\source\repos\onxg\practice\Practice\Practice.Core\obj\Debug\Practice.Core.csproj.CopyComplete
+C:\Users\Gosia\source\repos\onxg\practice\Practice\Practice.Core\obj\Debug\Practice.Core.dll
+C:\Users\Gosia\source\repos\onxg\practice\Practice\Practice.Core\obj\Debug\Practice.Core.pdb
